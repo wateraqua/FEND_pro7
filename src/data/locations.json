@@ -1,0 +1,81 @@
+[
+  {
+    "name": "Tea Alley",
+    "address": "40 S 1st St, San Jose, CA 95113",
+    "review":"4.1 stars",
+    "url": "not available",
+    "position": {
+      "lat": 37.3354419,
+      "lng": -121.8898505}
+  },
+  {
+    "name": "Gong Cha",
+    "address": "140 Paseo De San Antonio, San Jose, CA 95112",
+    "review":"4.3 stars",
+    "phone":"(408) 292-6160",
+    "url": "http://gong-cha-usa.com",
+    "position": {
+      "lat": 37.3336718,
+      "lng": -121.8847382}
+  },
+  {
+    "name": "Breaktime Cafe & Tea",
+    "address": "110 E San Fernando St, San Jose, CA 95112",
+    "review":"4.3 stars",
+    "phone":"(408) 286-2000",
+    "url": "http://breaktimetea.com",
+    "position": {
+      "lat": 37.3353523,
+      "lng": -121.8866158}
+  },
+  {
+    "name": "Boba Bar",
+    "address": "310 S 3rd St, San Jose, CA 95112",
+    "review":"4.4 stars",
+    "phone":"(408) 298-9968",
+    "url": "not available",
+    "position": {
+      "lat": 37.3324199,
+      "lng": -121.884596}
+  },
+  {
+    "name": "Bobo Drinks",
+    "address": "779 Story Rd, San Jose, CA 95122",
+    "review":"3.9 stars",
+    "phone":"(408) 998-8234",
+    "url": "http://bobodrinks.com",
+    "position": {
+      "lat": 37.3296452,
+      "lng": -121.8590856}
+  },
+  {
+    "name": "Teazu",
+    "address": "969 Story Rd #6033, San Jose, CA 95122",
+    "review":"4.5 stars",
+    "phone":"(408) 275-9901",
+    "url": "not available",
+    "position": {
+      "lat": 37.332285,
+      "lng": -121.8585652}
+  },
+  {
+    "name": "Sweet Gelato Tea Lounge",
+    "address": "979 Story Rd #7084, San Jose, CA 95122",
+    "review":"4.6 stars",
+    "phone":"(408) 275-9999",
+    "url": "not available",
+    "position": {
+      "lat": 37.3313173,
+      "lng": -121.8571624}
+  },
+  {
+    "name": "Teahee",
+    "address": "979 Story Rd #7012, San Jose, CA 95122",
+    "review":"3.7 stars",
+    "phone":"(408) 642-5978",
+    "url": "http://teahee.business.site",
+    "position": {
+      "lat": 37.3310891,
+      "lng": -121.8573555}
+  }
+]
